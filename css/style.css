@@ -30,17 +30,19 @@ h1, h2, h3, h4, h5 {
   font-weight: 700;
 }
 
-h1 {font-size: 4.210rem; /* 67.36px */}
+html {font-size: 100%;} /* 16px */
 
-h2 {font-size: 3.158rem; /* 50.56px */}
+h1 {font-size: 3.053rem; /* 48.8px */}
 
-h3 {font-size: 2.369rem; /* 37.92px */}
+h2 {font-size: 2.442rem; /* 39.04px */}
 
-h4 {font-size: 1.777rem; /* 28.48px */}
+h3 {font-size: 1.954rem; /* 31.2px */}
 
-h5 {font-size: 1.333rem; /* 21.28px */}
+h4 {font-size: 1.563rem; /* 24.96px */}
 
-small {font-size: 0.750rem; /* 12px */}
+h5 {font-size: 1.250rem; /* 20px */}
+
+small {font-size: 0.800rem; /* 12.8px */}
 
 .header{
     width: 100%;
