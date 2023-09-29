@@ -9,10 +9,10 @@
 
 :root{
     --text: #ffffff;
-    --background: #0f0f0f;
-    --primary: #ff9429;
-    --secondary: #2121b5;
-    --accent: #18b969;
+    --background: #ffffff;
+    --primary: cornflowerblue;
+    --secondary:#30307E;
+    --accent: black;
 }
 
 body {
@@ -50,27 +50,28 @@ small {font-size: 0.750rem; /* 12px */}
 }
 .logo{
     max-height: 100%;
+
 }
 
-.honeycorp{
+.grupal{
     text-align: center;
     width: 100%;
 }
-.honeycorp__h1{
+.h1{
     background-color: var(--primary);
     margin-bottom: 6rem;
     font-size: clamp(2rem,10vw,4.210rem);
 }
-.honeycorp__projects-container{
+.projects-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, min(20rem, 80vw));
     gap: 1rem;
     justify-content: center;
 }
-.honeycorp__project{
+.project{
     border: 2px solid var(--primary);
 }
-.honeycorp__img{
+.img{
     max-width: 100%;
     height: 100%;
     width: 100%;
