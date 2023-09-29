@@ -8,11 +8,11 @@
 }
 
 :root{
-    --text: #ffffff;
-    --background: #ffffff;
-    --primary: cornflowerblue;
-    --secondary:#30307E;
-    --accent: black;
+    --text: #040f15;
+    --background: #f7fbfd;
+    --primary: #3fa6e1;
+    --secondary: #c8e4f4;
+    --accent: #d1a021;
 }
 
 body {
