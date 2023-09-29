@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:700|Poppins:400');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+:root{
+    --text: #ffffff;
+    --background: #0f0f0f;
+    --primary: #ff9429;
+    --secondary: #2121b5;
+    --accent: #18b969;
+}
+
+body {
+  font-family: 'Poppins';
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--background);
+  color: var(--text);
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Poppins';
+  font-weight: 700;
+}
+
+h1 {font-size: 4.210rem; /* 67.36px */}
+
+h2 {font-size: 3.158rem; /* 50.56px */}
+
+h3 {font-size: 2.369rem; /* 37.92px */}
+
+h4 {font-size: 1.777rem; /* 28.48px */}
+
+h5 {font-size: 1.333rem; /* 21.28px */}
+
+small {font-size: 0.750rem; /* 12px */}
+
+.header{
+    width: 100%;
+    height: 120px;
+    background-color: var(--secondary);
+    margin-bottom: 2rem;
+}
+.logo{
+    max-height: 100%;
+}
+
+.honeycorp{
+    text-align: center;
+    width: 100%;
+}
+.honeycorp__h1{
+    background-color: var(--primary);
+    margin-bottom: 6rem;
+    font-size: clamp(2rem,10vw,4.210rem);
+}
+.honeycorp__projects-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, min(20rem, 80vw));
+    gap: 1rem;
+    justify-content: center;
+}
+.honeycorp__project{
+    border: 2px solid var(--primary);
+}
+.honeycorp__img{
+    max-width: 100%;
+    height: 100%;
+    width: 100%;
+}
+
+.separator{
+    width: 100%;
+    height: 3px;
+    background-color: #ffffff;
+    margin-block: 5rem;
+}
+
+.personal{
+    text-align: center;
+    width: 100%;
+}
+.personal__h1{
+    background-color: var(--secondary);
+    font-size: clamp(1.75rem,10vw,3.158rem);
+}
+
+.personal__member{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-block: 10rem;
+    color: var(--accent);
+}
+
+.personal__name{
+    font-size: clamp(2rem,10vw,4.210rem);
+}
+
+.personal__slider{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, min(20rem, 80vw));
+    gap: 1rem;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+}
+
+.personal__project{
+    border: 3px solid var(--secondary);
+}
+
+.personal__img{
+    max-height: 100%;
+    height: 100%;
+    width: 100%;
+    max-width: 350px;
+}
