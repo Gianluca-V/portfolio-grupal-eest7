@@ -14,7 +14,6 @@
     --secondary: #2121b5;
     --accent: #18b969;
 }
-@import url('https://fonts.googleapis.com/css?family=Poppins:700|Poppins:400');
 
 body {
   font-family: 'Poppins';
