@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Gianluca Vespe",
+        "github":"https://github.com/Gianluca-V",
+        "age": 19,
+        "description": "Estudiante de programación de último año, me especializo en el desarrollo full-stack con tecnologías tales como HTML/CSS, SCSS, JavaScript, TypeScript, Angular y GSAP en el lado del front-end; y Node.JS, PHP, TypeORM, MySQL, PostgreSQL, REST API en el lado del back-end. Además, desarrolló videojuegos como hobby utilizando C#. Mis gustos incluyen anime/manga y videojuegos, mis géneros favoritos son el romance y los recuentos de la vida, mis videojuegos favoritos incluyen Terraria. Minecraft y Katana Zero",
+        "projects": [
+            {
+                "name": "Word as IDE",
+                "img": "https://gianluca-v.github.io/assets/wordaside-img.png",
+                "desc": "Este sistema convierte Microsoft Word en un IDE para c++, programado en C# con .NET"
+            },
+            {
+                "name": "Movie list",
+                "img": "https://gianluca-v.github.io/assets/angularCrud-img.jpg",
+                "desc": "Un sistema que permite listar películas con un CRUD, desarrollado en Angular, Node.JS, Express y MySQL"
+            },
+            {
+                "name": "Lever Warriors",
+                "img": "https://gianluca-v.github.io/assets/levelWarriors-img.png",
+                "desc": "Un juego multijugador local basado en físicas, desarrollado en C# con Unity, disponible en: https://gianlucav.itch.io/lever-warriors"
+            }
+
+        ]
+    },
+   
+{
+        "name": "Sofía de Aurteneche",
+        "age": 18,
+        "description": "Soy estudiante de programación. Dominó las partes del frontend HTML y CSS. Me desempeño de buena manera en C + +, PHP, JavaScript, Java y MySQL para Base de Datos. Tengo experiencia en un poco de todo pero me desemvuelvo mejor en frontend. Soy aficionada a las películas, anime/series, literatura y música en general.",
+        "projects": [
+            {
+                "name": "Todavía no tengo proyecto para agregar",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Aaron Vovsek",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Tiziano Villarruel",
+        "age": 19,
+        "description": "Me llamo Tiziano Villarruel, soy un alumno del área de Programación del curso 7°1, mis conocimientos se basan en HTML/CSS, JS, todo eso del area de Front-end, despues PHP, MySql .",
+        "projects": [
+            {
+                "name": "TATETI",
+                "img": "imagen1.jpg",
+                "desc": "Es el clásico juego de 3 en rayas "
+            },
+            {	
+            "name": "TATETI",
+                        "img": "imagen1.jpg",
+                        "desc": "Es el clásico juego de 3 en rayas "
+            },
+            {	
+                "name": "TATETI",
+                            "img": "imagen1.jpg",
+                            "desc": "Es el clásico juego de 3 en rayas "
+            }
+        ]
+    },
+    {
+        "name": "Mauro Ayala",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Alan Zelada",
+        "age": 19,
+        "description": "Estoy en el último año de mi carrera técnica en programación en la escuela secundaria, donde me enfoco en proyectos para ganar experiencia. Trabajo principalmente con JavaScript, HTML y CSS, pero también he utilizado PHP y SQL para conectarme a bases de datos y formularios. Estoy dispuesto a aprender nuevos lenguajes y tengo un nivel intermedio de inglés, lo que me permite comunicarme en dicho idioma.",
+        "projects": [
+            {
+                "name": "Casino",
+                "img": "imagen1.jpg",
+                "desc": "Es un proyecto en el cual simulamos un casino real sin dinero de por medio en el cual el sistema de puntos está conectado a SQL y cuenta con 8 juegos."
+            },
+	        {
+                "name": "Hotelería",
+                "img": "imagen1.jpg",
+                "desc": "Se trata de un proyecto en el cual se realizan reservas de habitaciones de hoteles"
+            },
+	        {
+                "name": "AprendeYaInglés",
+                "img": "imagen1.jpg",
+                "desc": "Es un proyecto destinado al público infantil para aprender palabras en inglés"
+            }
+        ]
+    },
+    {
+        "name": "José García",  
+        "age": 18,
+        "description": "Tengo 18 años, soy de Buenos Aires, Argentina. Me centro en el desarrollo de páginas web, orientado más que todo en la rama del FrontEnd, también me fascina el diseño de interfaces Design UI/UX en Figma. Además de realizar el código para las páginas web y sus prototipos funcionales, me gusta ilustrar Fondos/Dibujos/Logos en Adobe Illustrator, cuando ilustro o diseño encuentro inspiración en la música y el estilo urbano tan característico de Buenos Aires.",
+        "projects": [ 
+            {
+                "name": "Slots",
+                "img": "imagen1.jpg",
+                "desc": "Juego recreativo de una máquina tragamonedas para un proyecto de Casino"
+            }
+        ]
+    },
+    {
+        "name": "Alejandro Marsilla",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Lucas Luitta",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Martín Calvo",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Santiago Corradi",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Fabrizio Büttiner",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Juego de dados",
+                "img": "imagen1.jpg",
+                "desc": ""
+            },
+            {
+                "name": "página de empresa: Future Now",
+                "img": "imagen2.jpg",
+                "desc": ""
+            }
+        ]
+    },
+    {
+        "name": "Agustin Turco",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Facundo Rosales",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Mariano Sibello",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    },
+    {
+        "name": "Francisco Peralta",
+        "age": 18,
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis hendrerit, laoreet ante velit imperdiet feugiat luctus metus quis. Bibendum velit sociosqu ornare per tincidunt gravida donec ultricies rutrum magna, duis curae accumsan aliquam metus dictumst quam turpis ad. Sed ad consequat aenean penatibus condimentum sem dignissim ligula etiam sapien, facilisis donec ridiculus orci dui quam tortor mi.",
+        "projects": [
+            {
+                "name": "Nombre del Proyecto 1",
+                "img": "imagen1.jpg",
+                "desc": "Descripción del Proyecto 1"
+            }
+        ]
+    }
+]
+
