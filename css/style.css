@@ -28,101 +28,57 @@ body {
 h1, h2, h3, h4, h5 {
   font-family: 'Poppins';
   font-weight: 700;
-}
+    }
 
-html {font-size: 100%;} /* 16px */
+h1 {font-size: 4.210rem; /* 67.36px */}
 
-h1 {font-size: 3.053rem; /* 48.8px */}
+h2 {font-size: 3.158rem; /* 50.56px */}
 
-h2 {font-size: 2.442rem; /* 39.04px */}
+h3 {font-size: 2.369rem; /* 37.92px */}
 
-h3 {font-size: 1.954rem; /* 31.2px */}
+h4 {font-size: 1.777rem; /* 28.48px */}
 
-h4 {font-size: 1.563rem; /* 24.96px */}
+h5 {font-size: 1.333rem; /* 21.28px */}
 
-h5 {font-size: 1.250rem; /* 20px */}
-
-small {font-size: 0.800rem; /* 12.8px */}
+small {font-size: 0.750rem; /* 12px */}
 
 .header{
     width: 100%;
     height: 120px;
     background-color: var(--secondary);
     margin-bottom: 2rem;
+    margin-bottom: 30rem;
 }
 .logo{
     max-height: 100%;
-
 }
 
-.grupal{
+
+.title__h1{
+    font-size: clamp(3.158rem,3vw,4.21rem);
+    margin-bottom: 3rem;
+}
+
+.students{
     text-align: center;
     width: 100%;
 }
-.h1{
-    background-color: var(--primary);
-    margin-bottom: 6rem;
-    font-size: clamp(2rem,10vw,4.210rem);
-}
-.projects-container{
+.students__container{
+
     display: grid;
-    grid-template-columns: repeat(auto-fit, min(20rem, 80vw));
-    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, min(20rem,80vw));
     justify-content: center;
-}
-.project{
-    border: 2px solid var(--primary);
-}
-.img{
-    max-width: 100%;
-    height: 100%;
-    width: 100%;
+    gap:1rem;
 }
 
-.separator{
-    width: 100%;
-    height: 3px;
-    background-color: #ffffff;
-    margin-block: 5rem;
-}
-
-.personal{
-    text-align: center;
-    width: 100%;
-}
-.personal__h1{
-    background-color: var(--secondary);
-    font-size: clamp(1.75rem,10vw,3.158rem);
-}
-
-.personal__member{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-block: 10rem;
-    color: var(--accent);
-}
-
-.personal__name{
-    font-size: clamp(2rem,10vw,4.210rem);
-}
-
-.personal__slider{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, min(20rem, 80vw));
-    gap: 1rem;
-    margin: auto;
-    width: 100%;
-    justify-content: center;
-}
-
-.personal__project{
-    border: 3px solid var(--secondary);
-}
-
-.personal__img{
+.students__student{
+    height: 500px;
     max-height: 100%;
-    height: 100%;
-    width: 100%;
-    max-width: 350px;
+    cursor: pointer;
+}
+
+.students__description{
+    max-height: 300px;
+    overflow-y: scroll;
+    overflow-x: visible;
 }
