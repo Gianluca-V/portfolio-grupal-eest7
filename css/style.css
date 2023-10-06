@@ -7,6 +7,18 @@
     text-decoration: none;
 }
 
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgb(255, 255, 255);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(63, 63, 63);
+}
+
 :root{
     --text: #040f15;
     --background: #f7fbfd;
@@ -67,6 +79,7 @@ small {font-size: 0.750rem; /* 12px */}
     border: 2px black solid;
 }
 
+
 .title__h1{
     font-size: clamp(3.158rem,3vw,4.21rem);
     margin-bottom: 3rem;
@@ -110,13 +123,41 @@ small {font-size: 0.750rem; /* 12px */}
     border: none;
 }
 
+.students__projects:focus{
+    outline: none;
+}
+
+
+.students__projects::-webkit-scrollbar {
+    width: 10px;
+}
+
+.students__projects::-webkit-scrollbar-track {
+    background-color: #0c48a1;
+}
+
+.students__projects::-webkit-scrollbar-thumb {
+    background-color: rgb(255, 255, 255);
+}
+
 .students__projects img{
     width: 250px;
-    height: 150px;
+    height: 150;
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
 }
 
 .project__description{
     color: white;
+}
+
+.students__description{
+    font-size: 1rem;
+    padding-right: 5px;
+    padding-left: 10px;
+    text-align: start;
+    font-weight: 400;
 }
 
 .project__close{
@@ -128,8 +169,11 @@ small {font-size: 0.750rem; /* 12px */}
     height: 2rem;
     text-align: center;
     cursor: pointer;
+    margin: auto;
 }
 
 .project__close:hover{
-    background-color: #a70021;
+    background-color: #b60d2f;
 }
+
+
